@@ -1,13 +1,3 @@
-/**
- * -------------------------------------------------------------------
- * Author: Sasmithx
- * GitHub: https://github.com/sasmithx
- * Website: https://sasmithx.com
- * -------------------------------------------------------------------
- * Created: 2/12/2025 12:44 PM
- * Project: VanguardVote-BACKEND
- * -------------------------------------------------------------------
- */
 
 const mongoose = require('mongoose');
 const bcrypt = require('bcryptjs');

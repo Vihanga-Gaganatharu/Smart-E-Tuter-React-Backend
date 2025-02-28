@@ -1,14 +1,3 @@
-/**
- * -------------------------------------------------------------------
- * Author: Sasmithx
- * GitHub: https://github.com/sasmithx
- * Website: https://sasmithx.com
- * -------------------------------------------------------------------
- * Created: 2/15/2025 7:11 PM
- * Project: backend
- * -------------------------------------------------------------------
- */
-
 const express = require('express');
 const { protect } = require('../middleware/authMiddleware');
 const {

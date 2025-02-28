@@ -1,13 +1,3 @@
-/**
- * -------------------------------------------------------------------
- * Author: Sasmithx
- * GitHub: https://github.com/sasmithx
- * Website: https://sasmithx.com
- * -------------------------------------------------------------------
- * Created: 2/12/2025 12:57 PM
- * Project: VanguardVote-BACKEND
- * -------------------------------------------------------------------
- */
 
 const jwt = require('jsonwebtoken');
 const User = require('../models/User');

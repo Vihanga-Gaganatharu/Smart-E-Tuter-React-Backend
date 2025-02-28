@@ -1,13 +1,3 @@
-/**
- * -------------------------------------------------------------------
- * Author: Sasmithx
- * GitHub: https://github.com/sasmithx
- * Website: https://sasmithx.com
- * -------------------------------------------------------------------
- * Created: 2/12/2025 7:28 PM
- * Project: VanguardVote-BACKEND
- * -------------------------------------------------------------------
- */
 
 const multer = require("multer");
 const path = require("path");
